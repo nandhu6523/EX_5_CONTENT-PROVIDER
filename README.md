@@ -34,7 +34,7 @@ Developed by:Nandhini S
 Registeration Number :212222220028
 */
 ```
-##Mainactivity.java:
+## Mainactivity.java:
 ```
 package com.example.ex5;
 import android.support.v7.app.AppCompatActivity;
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Total Count of Contacts: "+count);}
 }
 ```
-##Activitymain.XML:
+## Activitymain.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
 
 </RelativeLayout>
 ```
-##AndroidMainfest.XML:
+## AndroidMainfest.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -155,6 +155,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 ![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/f4050c0a-f362-4017-8a47-50528dfe4eba)
+
+
+
 
 
 ![Screenshot 2024-09-17 194701](https://github.com/user-attachments/assets/01b7d310-7e65-47b6-bcc3-aa91fbfbb27e)
